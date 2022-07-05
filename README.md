@@ -72,4 +72,42 @@ this json file include more than 1000 divers user agent for several devices (Des
 - Microsoft Lumia 950
 - Samsung Galaxy Tab S8 Ultra
 - Lenovo Yoga Tab 11
-- 
+- Google Pixel C
+- Sony Xperia Z4 Tablet
+- Nvidia Shield Tablet K1
+- Samsung Galaxy Tab S3
+- Samsung Galaxy Tab A
+- Amazon Kindle Fire HDX 7
+- LG G Pad 7.0
+- Windows 10-based PC using Edge browser
+- Chrome OS-based laptop using Chrome browser (Chromebook)
+- Mac OS X-based computer using a Safari browser
+- Windows 7-based PC using a Chrome browser
+- Windows XP-based PC using a Chrome browser
+- Windows 10-based PC using a Chrome browser
+- Linux-based PC using a Firefox browser
+- Google ADT-2
+- Chromecast
+- Roku Ultra
+- Minix NEO X5
+- Amazon AFTWMST22
+- Amazon 4K Fire TV
+- Google Nexus Player
+- Apple TV 6th Gen 4K
+- Apple TV 5th Gen 4K
+- Apple TV 4th Gen
+- Playstation 5
+- Playstation 4
+- Playstation Vita
+- Xbox Series X
+- Xbox One S
+- Xbox One
+- Nintendo Switch
+- Nintendo Wii U
+- Nintendo 3DS
+- Google bot
+- Bing bot
+- Yahoo! bot
+- Amazon Kindle 4
+- Amazon Kindle 3
+- Macintosh Mac OS X
